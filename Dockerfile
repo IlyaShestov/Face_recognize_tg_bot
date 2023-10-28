@@ -29,4 +29,4 @@ ADD trained_recognizer_advanced.yml   .
 
 WORKDIR /usr/src/app
 
-CMD python3 ./bot.py
+CMD python ./bot.py
