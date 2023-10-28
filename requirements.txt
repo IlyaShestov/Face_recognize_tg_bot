@@ -1,5 +1,5 @@
 opencv-python-headless == 4.8.1.78
 numpy == 1.26.1
-pyTelegramBotAPI == 0.0.5
+pyTelegramBotAPI == 4.14.0
 requests == 2.31.0
 opencv-contrib-python-headless == 4.8.1.78
